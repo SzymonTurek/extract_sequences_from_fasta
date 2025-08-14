@@ -1,4 +1,4 @@
-# extract_sequences_from_fasta
+# Description
 Extract sequence from a specific contig in a FASTA file from start to end positions,
     including flanking sequences of specified length on both sides.
 
